@@ -18,6 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 I took the first codelab to make my first application.
 
 <p align="center">
-  <img src="https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/img/e3624172607d5551.png" />
+  <img src="https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/img/b17de15fa7831a1c.png" />
 </p>
 
